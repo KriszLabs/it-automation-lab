@@ -1,5 +1,3 @@
-IT Automation Lab
-
 Üdv!
 
 Ez a repository azokat a projekteket gyűjti össze, amelyeken a mindennapi munkám során szerzett tapasztalatokra építve dolgozom.
